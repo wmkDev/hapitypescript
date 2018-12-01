@@ -6,10 +6,6 @@ A NodeJS + HapiJS(17) with Typescript Starter kit to build standard projects.
 
 * *npm run setup* (install nuget packages & typings)
 
-**Important Note**
-
-* If working with NodeJS 10.0.0, Kindly delete the *package.lock.json* file then try *npm install*
-
 **Run**
 
 * *gulp build* (build ts files)
